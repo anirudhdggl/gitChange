@@ -13,7 +13,7 @@
 gitChange can be used for making simple changes like replacing a word in a file with some other word. As with the script, the word to be changed is fixed and is 'DEVOPS', but that could easily be replaced by a variable and used for any find and replace operation on a file.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./screenshot.png)
 
 ## Technologies
 * shell (bash interpreter)
